@@ -1,7 +1,7 @@
 # Project04_Auth_CRUD_ASP.NET
 
 #  Introduction
-the project provides a service that helps the companies or individuals who organize tours, they can manage tours online and the tourists also can book tours online and receive a confirmation email if the booing approved.
+The project provides a service that helps the companies or individuals who organize tours, they can manage tours online and the tourists also can book tours online and receive a confirmation email if the booking approved.
 ##### Demo
 
 https://toursapp.azurewebsites.net/
